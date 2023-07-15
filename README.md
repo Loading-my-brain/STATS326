@@ -5,7 +5,7 @@ By utilizing the `tidyverse` and `lubridate` packages, I showcased the essential
 ## Key Components Demonstrated in the Projects:
 
 - [x] **Data Analysis**: Inspected seasonal patterns, cyclicity, outliers, groupings, trends, multicollinearity, autocorrelation, white noise characteristics, and peaks/troughs.
-- [x] **Transformations and Adjustments**: Utilized mathematical and Box-Cox transformations, as well as adjustments for calendar, population, and inflation.
+- [x] **Transformations and Adjustments**: mathematical and Box-Cox transformations, as well as adjustments for calendar, population, and inflation.
 - [x] **Decompositions**: Implemented classical and STL decompositions.
 - [x] **Moving Average**: Employed moving average methods.
 - [x] **Simple Forecasting Methods**: Utilized average, naïve, seasonal naïve, and random walk methods, including drift.
